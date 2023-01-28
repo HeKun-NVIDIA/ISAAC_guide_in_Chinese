@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/600189177
 # Isaac Jetson Nano 入门
 
 本节介绍如何在 Jetson Nano 设备上运行 Isaac SDK 示例应用程序。 有关如何开始使用 Nano 的一般说明，请参阅 [Jetson Nano 开发工具包入门](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)。
